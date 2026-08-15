@@ -1,16 +1,16 @@
 # 東京成徳大学 特別講義 2026
 ## 第01回
-### 1.1 Pythonの基本文法（変数・演算）_2026
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fukufukufukufuku/tsu_2026_github/blob/main/第01回/1.1%20Pythonの基本文法（変数・演算）_2026.ipynb)
+### 1.1 Pythonの基本文法（変数・演算）
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fukufukufukufuku/tsu_2026_github/blob/main/第01回/1.1%20Pythonの基本文法（変数・演算）.ipynb)
 
-### 1.2 Pythonの基本文法（条件分岐）_2026
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fukufukufukufuku/tsu_2026_github/blob/main/第01回/1.2%20Pythonの基本文法（条件分岐）_2026.ipynb)
+### 1.2 Pythonの基本文法（条件分岐）
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fukufukufukufuku/tsu_2026_github/blob/main/第01回/1.2%20Pythonの基本文法（条件分岐）.ipynb)
 
-### 1.3 Pythonの基本文法（繰り返し）_2026
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fukufukufukufuku/tsu_2026_github/blob/main/第01回/1.3%20Pythonの基本文法（繰り返し）_2026.ipynb)
+### 1.3 Pythonの基本文法（繰り返し）
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fukufukufukufuku/tsu_2026_github/blob/main/第01回/1.3%20Pythonの基本文法（繰り返し）.ipynb)
 
-### 1.4 回帰分析とデータ可視化_2026
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fukufukufukufuku/tsu_2026_github/blob/main/第01回/1.4%20回帰分析とデータ可視化_2026.ipynb)
+### 1.4 回帰分析とデータ可視化
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fukufukufukufuku/tsu_2026_github/blob/main/第01回/1.4%20回帰分析とデータ可視化.ipynb)
 
 
 ## 第02回
